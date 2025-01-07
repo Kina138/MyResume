@@ -1,0 +1,70 @@
+.resume {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    line-height: 1.6;
+    color: black;
+    padding: 20px;
+    background-color: #bdfb04; /* Background màu yêu cầu */
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    color: black; /* Tiêu đề màu đen */
+  }
+  
+  .header p {
+    font-size: 1rem;
+    color: black;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    font-size: 1.5rem;
+    color: black; /* Tiêu đề phần */
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .skills, .experience ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .skills li,
+  .experience li {
+    margin-bottom: 10px;
+  }
+  
+  .education h3,
+  .experience h3,
+  .projects h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: black;
+  }
+  
+  .education p,
+  .projects p,
+  .experience p {
+    margin: 5px 0;
+  }
+  
+  .projects a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .projects a:hover {
+    text-decoration: underline;
+  }
+  
