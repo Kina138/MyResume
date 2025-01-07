@@ -8,6 +8,8 @@ The program takes static data as input, which is hardcoded into the `Resume.js` 
 - **Work Experience**: Job roles, organizations, durations, and descriptions of responsibilities.
 - **Projects**: Summaries of projects with links to GitHub repositories for more details.
 
+The input data is structured into different sections in the `Resume.js` file, ready to be styled and displayed.
+
 ---
 
 ## Process
@@ -38,3 +40,52 @@ The output is a fully functional and visually appealing resume web page with the
 - **Projects Section**: Provides clickable links to GitHub repositories along with brief project descriptions.
 - **Responsive Design**: The resume is styled to match the assignment’s sample output, featuring proper alignment, spacing, and a bright, professional look.
 - **Browser Compatibility**: The resume is rendered dynamically and is viewable on any modern web browser.
+
+This project successfully transforms static input into a polished, dynamic resume web application that fulfills all assignment requirements.
+
+---
+
+## Steps to Run the Application
+Follow these steps to run the application on your local machine:
+
+1. **Clone the Repository**:
+   - Clone this repository to your local machine using:
+     ```bash
+     git clone https://github.com/Kina138/MyResume.git
+     ```
+
+2. **Navigate to the Project Directory**:
+   - Move into the project folder:
+     ```bash
+     cd MyResume/client
+     ```
+
+3. **Install Dependencies**:
+   - Ensure all the required dependencies are installed by running:
+     ```bash
+     npm install
+     ```
+
+4. **Start the Development Server**:
+   - Run the following command to start the application:
+     ```bash
+     npm start
+     ```
+   - This will open the application in your default web browser. If it doesn't open automatically, navigate to `http://localhost:3000`.
+
+5. **View and Test**:
+   - You should see the resume web page displayed in the browser.
+   - Any changes you make to `Resume.js` or `Resume.css` will be automatically reflected in the browser.
+
+6. **Troubleshooting**:
+   - If you encounter any issues, try running:
+     ```bash
+     npm install
+     ```
+     - This ensures all dependencies are properly installed.
+   - Restart the server with:
+     ```bash
+     npm start
+     ```
+
+With these steps, you can easily run and test the resume application locally.
