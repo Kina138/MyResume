@@ -42,6 +42,8 @@ The output is a fully functional and visually appealing resume web page with the
 - **Browser Compatibility**: The resume is rendered dynamically and is viewable on any modern web browser.
 
 This project successfully transforms static input into a polished, dynamic resume web application that fulfills all assignment requirements.
+![image](https://github.com/user-attachments/assets/e7dcf7fa-ea4a-4a6e-b9e5-35f8c6c5fc2e)
+![image](https://github.com/user-attachments/assets/61321880-7297-45e6-be6c-4e25abd0ac94)
 
 ---
 
